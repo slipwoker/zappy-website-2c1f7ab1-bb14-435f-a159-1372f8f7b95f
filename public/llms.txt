@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Discover monarch tv show, blockbuster films, and binge-worthy series on MOVIE FOX. Real-time search, trailer previews, and your personal favorites — all in one cinematic experience.
+
+### Features
+https://example.com/features
+Explore MOVIE FOX&#39;s live TMDb-powered search, YouTube trailer popups, horizontal scroll rows, and favorites system — built for the ultimate entertainment streaming experience.
+
+### About Platform
+https://example.com/about
+MOVIE FOX is a Netflix-inspired streaming discovery platform with a dark cinematic UI, red accents, and live data — crafted for fans who demand more from their entertainment streaming hub.
+
+### Contact
+https://example.com/contact
+Reach out to the MOVIE FOX team for support, feedback, or partnership inquiries. We&#39;re here to help you get the most from your entertainment streaming and movie discovery journey.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
